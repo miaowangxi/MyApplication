@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d2233f5-0332-47ff-ac00-d14218f3cd8c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1kwkT5FyqvB9chKJnZsGlDdhNv1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d2233f5-0332-47ff-ac00-d14218f3cd8c" name="Default Changelist" comment="" />
+      <created>1606619045357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606619045357</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="589" y="292" key="#Notifications" timestamp="1606619083770">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="589" y="292" key="#Notifications/0.0.1440.860@0.0.1440.860" timestamp="1606619083770" />
+    <state x="175" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606619127025">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="175" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1606619127025" />
+    <state x="100" y="100" width="1240" height="660" key="AVDManager" timestamp="1606619290521">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="100" y="100" width="1240" height="660" key="AVDManager/0.0.1440.860@0.0.1440.860" timestamp="1606619290521" />
+    <state x="201" y="5" key="SettingsEditor" timestamp="1606619077849">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="201" y="5" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1606619077849" />
+    <state x="377" y="198" key="run.anything.popup" timestamp="1606619241295">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="377" y="198" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1606619241295" />
+    <state x="382" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1606619289069">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="382" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1606619289069" />
+  </component>
+</project>
